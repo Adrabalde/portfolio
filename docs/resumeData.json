@@ -1,0 +1,563 @@
+{
+  "main": {
+    "name": "Anthony Hien Vu",
+    "occupation": "Full Stack Web Developer",
+    "description": "Currently working as a Senior Front End Engineer at Checkbox.",
+    "image": "profilepic.png",
+    "bio": "Full stack web developer with a strong preference for the frontend. I also have experience in QA and DevOps as well (I have 2 AWS associate certifications). My interests include frontend & backend system architecture, design, DevOps/cloud/serverless, mentoring, leadership, sustainability & AI/machine-learning. Outside of work I enjoy ice skating, playing cricket, hiking, running, reading, and attending meetups (usually tech-related). Where ever I work, I'm always striving to upskill everyone in my team and learn from them too. Mentoring others and working as a cohesive team is very important to me.",
+    "contactmessage": "Get in touch.",
+    "email": "avu120@gmail.com",
+    "phone": "+614 5266 8725",
+    "address": {
+      "city": "Sydney",
+      "suburb": "Wentworthville",
+      "state": "NSW",
+      "zip": "2145"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "Anthony Hien Vu's Resume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/anthony-hien-vu",
+        "className": "fa fa-linkedin",
+        "title": "Go to my LinkedIn profile"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/AVu120",
+        "className": "fa fa-github",
+        "title": "Go to my Github profile"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "In descending order of my frequency of use.",
+    "qualifications": [
+      {
+        "organization": "Amazon Web Services",
+        "qualification": "AWS Certified Solutions Architect - Associate",
+        "dateReceived": "2021",
+        "descriptions": [
+          {
+            "text": "",
+            "link": "https://github.com/AVu120/portfolio/blob/master/public/certifications/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20Certificate.pdf",
+            "linkText": "View my AWS Solutions Architect – Associate Certificate here."
+          }
+        ]
+      },
+      {
+        "organization": "Amazon Web Services",
+        "qualification": "AWS Certified Developer - Associate",
+        "dateReceived": "2021",
+        "descriptions": [
+          {
+            "text": "",
+            "link": "https://github.com/AVu120/portfolio/blob/master/public/certifications/AWS%20Certified%20Developer%20-%20Associate%20Certificate.pdf",
+            "linkText": "View my AWS Developer – Associate Certificate here."
+          }
+        ]
+      },
+      {
+        "organization": "Checkbox",
+        "qualification": "Checkbox App Designer",
+        "dateReceived": "2021",
+        "descriptions": [
+          {
+            "text": "",
+            "link": "https://github.com/AVu120/portfolio/blob/master/public/certifications/Checkbox%20App%20Designer%20Certificate.pdf",
+            "linkText": "View my Checkbox App Designer Certificate here."
+          }
+        ]
+      },
+      {
+        "organization": "Checkbox",
+        "qualification": "Checkbox App Expert",
+        "dateReceived": "2021",
+        "descriptions": [
+          {
+            "text": "",
+            "link": "https://github.com/AVu120/portfolio/blob/master/public/certifications/Checkbox%20App%20Expert%20Certificate.pdf",
+            "linkText": "View my Checkbox App Expert Certificate here."
+          }
+        ]
+      },
+      {
+        "organization": "University of Sydney",
+        "qualification": "Bachelor of Engineering - 1st Class Honours",
+        "dateReceived": "",
+        "descriptions": [
+          {
+            "text": "",
+            "link": "https://github.com/AVu120/portfolio/blob/master/public/certifications/Engineering%20Course%20Completion%20Letter.pdf",
+            "linkText": "View my course completion letter here."
+          }
+        ]
+      }
+    ],
+    "work": [
+      {
+        "company": "Checkbox",
+        "location": "Sydney, NSW",
+        "title": "Senior Front End Engineer",
+        "years": "Oct 2021 - Now",
+        "description": ["TBD..."]
+      },
+      {
+        "company": "oOh!media",
+        "location": "Sydney, NSW",
+        "title": "Full Stack Web Developer",
+        "years": "Mar 2021 - Sep 2021",
+        "description": [
+          "Built new features into internal React & Redux applications.",
+          "Built evergreen internal UI design system using Storybook.js. It is currently used by multiple stakeholders (e.g. designers, developers, product owners/managers, etc.) to standardize UI/UX across different web applications.",
+          "Built new features in Node - Express.js/GraphQL servers.",
+          "Built new features in python API servers.",
+          "Made configuration changes in AWS services like SQS, Lambda and EC2.",
+          "Made configuration changes to Concourse CICD pipelines."
+        ]
+      },
+      {
+        "company": "Telstra",
+        "location": "Sydney, NSW",
+        "title": "Full Stack Web Developer",
+        "years": "Aug 2018 - Feb 2021",
+        "description": [
+          "Performed full stack development of a Telstra enterprise web application with thousands of internal users utilizing the MERN (MongoDB, Express, React, Node) stack with redux. The primary feature of this application is a catalogue of charts displaying data from various sources. I built new features into this application every day. Some examples include allowing the users to query databases from within the application, automatically schedule user-written scripts against databases, set up monitoring & alarms, and many more. The application uses a microservices architecture and is deployed on AWS.",
+          "Go to https://avu120.github.io/portfolio/#portfolio then click on the Telstra logo to see an overview of most of my work at Telstra.",
+          "Troubleshooted operational issues in AWS core services such as CloudWatch, EC2, ECR and DocumentDB.",
+          "Containerized many applications using Docker.",
+          "Configured NGINX reverse-proxies to forward requests to various servers/micro-services-in-docker-containers.",
+          "Wrote unit tests using Jest.js, Enzyme.js and React Testing Library.",
+          "Wrote integration tests using ROBOT test framework.",
+          "Set up CICD pipelines using Atlassian's Bamboo platform.",
+          "Documented many APIs using Swagger/OpenAPI specification.",
+          "Automated deployment of network configuration and virtual network devices using python scripts and ansible playbooks."
+        ]
+      },
+      {
+        "company": "KPMG",
+        "location": "Sydney, NSW",
+        "title": "IT Consultant",
+        "years": "Feb 2017 - May 2018",
+        "description": [
+          "Implemented & configured Microsoft Dynamics 365 ERP (Enterprise Resource Planning) software for large multinational clients.",
+          "Performed IT risk testing (audit)."
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Redux",
+        "level": "100%"
+      },
+      {
+        "name": "CSS/Modules/SASS/CSS-in-JS/CSS-in-HTML",
+        "level": "100%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "100%"
+      },
+      {
+        "name": "React Testing",
+        "level": "100%"
+      },
+      {
+        "name": "Node/Express",
+        "level": "100%"
+      },
+      {
+        "name": "AWS",
+        "level": "80%"
+      },
+      {
+        "name": "Cypress E2E Testing",
+        "level": "60%"
+      },
+      {
+        "name": "Building REST APIs",
+        "level": "100%"
+      },
+      {
+        "name": "Building GraphQL APIs",
+        "level": "60%"
+      },
+      {
+        "name": "SQL Databases",
+        "level": "80%"
+      },
+      {
+        "name": "NoSQL Databases",
+        "level": "80%"
+      },
+      {
+        "name": "Storybook (UI Design Systems)",
+        "level": "80%"
+      },
+      {
+        "name": "Figma (Design/Wireframe Prototyping)",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "personalProjects": [
+      {
+        "title": "Dashboard Editor",
+        "description": "Create and customize your own dashboard.",
+        "image": "personal/dashboard-editor.png",
+        "url": "https://github.com/AVu120/dashboard-editor"
+      },
+      {
+        "title": "Menu Survey",
+        "description": "After a restaurant customer finishes their meal, they can use this app to send a meal/restaurant review to restaurant management/staff.",
+        "image": "personal/menu-survey.png",
+        "url": "https://github.com/AVu120/menu-survey"
+      },
+      {
+        "title": "Chat Room",
+        "description": "Share your thoughts with friends around the world.",
+        "image": "personal/chat-room.png",
+        "url": "https://github.com/AVu120/chat-room"
+      },
+      {
+        "title": "Image Search Engine",
+        "description": "App that lets a user enter keywords/tags and be shown matching images.",
+        "image": "personal/image-search-engine.png",
+        "url": "https://github.com/AVu120/image-search-engine"
+      },
+      {
+        "title": "Trivia Quiz",
+        "description": "A trivia quiz game using questions and answers from open trivia db.",
+        "image": "personal/trivia-quiz.jpg",
+        "url": "https://github.com/AVu120/trivia-quiz"
+      },
+      {
+        "title": "Image Manipulator",
+        "description": "A tool that displays an image 4 times on a 2x2 grid and allows you to flip, rotate and apply filters on one or multiple images then compare them.",
+        "image": "personal/image-flipper.jpg",
+        "url": "https://github.com/AVu120/image-flipper"
+      },
+      {
+        "title": "Tree Match",
+        "description": "A service that tells you what kind of tree you should plant in your garden. It guides users through a questionnaire and matches them with a tree species.",
+        "image": "personal/tree-match.png",
+        "url": "https://github.com/AVu120/tree-match"
+      },
+      {
+        "title": "Buy Real Estate",
+        "description": "Navigate through properties and add/remove them to/from a saved properties list.",
+        "image": "personal/buy-real-estate.png",
+        "url": "https://github.com/AVu120/buy-real-estate"
+      },
+      {
+        "title": "Unit Converter",
+        "description": "Unit converter that converts common units of measurement.",
+        "image": "personal/unit-converter.png",
+        "url": "https://github.com/AVu120/unit-converter"
+      },
+      {
+        "title": "Countdown Timer",
+        "description": "Set an event name and a future date and time it will occur to display a timer countdown down to that event at which an alarm/notification will occur.",
+        "image": "personal/countdown-timer.jpg",
+        "url": "https://github.com/AVu120/countdown-timer"
+      },
+      {
+        "title": "Portfolio Website",
+        "description": "My Portfolio Website which I created by building on top of an open-source react resume template.",
+        "image": "personal/portfolio-website.png",
+        "url": "https://github.com/AVu120/portfolio-website"
+      },
+      {
+        "title": "Mini Server-Side Rendered Portfolio",
+        "description": "I use Next.js & static-site generation to create a mini version of my portfolio website.",
+        "image": "personal/mini-ssr-portfolio.png",
+        "url": "https://github.com/AVu120/mini-ssr-portfolio"
+      },
+      {
+        "title": "Other Applications",
+        "description": "Browse my various non-deployed or non-web-app applications.",
+        "image": "personal/github.jpg",
+        "url": "https://github.com/AVu120?tab=repositories"
+      }
+    ],
+    "professionalProjects": [
+      {
+        "title": "Telstra Internal Analytics Tool",
+        "description": "Tool to view, sort, filter and edit data in databases.",
+        "image": "professional/Telstra/telstra-logo-preview-image.jpg",
+        "achievements": [
+          {
+            "group": "Charts",
+            "title": "Chart Viewer",
+            "tasksDoneInAchievement": [
+              {
+                "title": "Created datetime and data granularity filters for chart viewer application.",
+                "when": "Nov 2019",
+                "image": "professional/Telstra/analytics-tool/charts/chart-viewer/chart-viewer.jpg",
+                "description": "I was tasked with adding input fields to allow the user to filter the displayed data by user-specified datetime range and data granularity (e.g. data measured once every 15 minutes, hour, day and etc.). I did this by using the react-datetime library to create a FROM and TO datetime input and material-ui library to create a RESOLUTION dropdown field (shown top-left). I also used redux to store the user's selections in a centralized redux store. Every time the user would select a different datetime, or data granularity option, a rest POST API call with the chart SQL, datetime and data granularity inputs would be made to the backend where the SQL string would be augmented by the inputs and then used to query the database. Hence, after any filter update the graph would instantly display filtered data."
+              },
+              {
+                "title": "Created in-app table view of chart data with ability to export data to csv, print, filter, etc.",
+                "when": "December 2019",
+                "image": "professional/Telstra/analytics-tool/charts/chart-viewer/table-view-of-data-in-chart.jpg",
+                "description": "I was tasked with allowing the user to quickly view, browse through, filter and print/export-to-csv chart data all within the application itself (avoiding the need to leave the app to do the same things). I achieved this by using the table component from the mui-datatables library, formatting the chart data so that it would go into and display on the table, then customizing the table's in-built parameters to enable filtering, download to csv and printing all via the grey icon buttons in the top-right toolbar."
+              },
+              {
+                "title": "Created add chart to favourites list feature.",
+                "when": "June 2020",
+                "image": "professional/Telstra/analytics-tool/charts/chart-viewer/save-chart-to-favourites.jpg",
+                "description": "I was tasked with allowing a user to save a chart to a list of favourites that they could quickly access/reference. I used a combination of redux for centralized state management and MongoDB for data storage in order to build this. Now the user can just click on a chart in the left-side hierarchy then click on the top-right empty heart button to favourite a chart."
+              },
+              {
+                "title": "How user removes chart from favourites list.",
+                "when": "June 2020",
+                "image": "professional/Telstra/analytics-tool/charts/chart-viewer/remove-chart-from-favourites.jpg",
+                "description": "Similiarly, the user can select a chart from the left-side hierarchy and click the top-right filled heart button to unfavourite a chart. This will instantly remove the selected chart from the user's favourites list."
+              }
+            ]
+          },
+          {
+            "group": "Charts",
+            "title": "Chart Target & Trend lines",
+            "tasksDoneInAchievement": [
+              {
+                "title": "Created form for user to render target line on chart.",
+                "when": "July 2020",
+                "image": "professional/Telstra/analytics-tool/charts/chart-viewer/create-chart-target-line-form.jpg",
+                "description": "Users would like to plot horizontal target lines on a chart which they can measure chart-values against. Therefore, I created a form which allowed users to customize the label, y-value, color and pattern of up to 3 target lines to plot on a single chart."
+              },
+              {
+                "title": "Displaying target line(s) on chart.",
+                "when": "July 2020",
+                "image": "professional/Telstra/analytics-tool/charts/chart-viewer/chart-target-line.jpg",
+                "description": "The result is that users could plot up to 3 target lines (on a single chart) that they could measure chart values against. I designed and coded the entire full stack solution for this."
+              },
+              {
+                "title": "Created form for user to render trend line on chart.",
+                "when": "July 2020",
+                "image": "professional/Telstra/analytics-tool/charts/chart-viewer/create-chart-trend-line-form.jpg",
+                "description": "Users would like to plot a trend line on a chart which they can measure chart-values against as well as use to predict future values based on past values. Therefore, I created a form which allowed users to customize the label, algorithm, data-series and color of a trend line to plot on a single chart."
+              },
+              {
+                "title": "Displaying trend line on chart.",
+                "when": "July 2020",
+                "image": "professional/Telstra/analytics-tool/charts/chart-viewer/chart-trend-line.jpg",
+                "description": "The result is that users can plot a trend line on a chart. I designed and coded the entire full stack solution for this."
+              }
+            ]
+          },
+          {
+            "group": "Reports",
+            "title": "Fixed Smart Report",
+            "tasksDoneInAchievement": [
+              {
+                "title": "Creation of Smart Report GUI",
+                "when": "February 2020",
+                "image": "professional/Telstra/analytics-tool/reports/fixed-smart-report/empty-smart-report-gui.jpg",
+                "description": "I had to create a GUI in React to query, sort, display and edit data from an oracle database. I also had to visually show row edit history (by who, when, and what the old and new data was) in the past 30 days. All these features collectively constituted a 'Smart Report GUI'. I used a combination of react-datetime and material-ui input fields to create the filter inputs at the top which the user could use to filter the queried data. I also used react to store the user-selected filter options, REST api to trigger the back-end use of an oracle sql query against the database, then redux for client-side storage of the retrieved data."
+              },
+              {
+                "title": "Displaying Data in Smart Report",
+                "when": "February 2020",
+                "image": "professional/Telstra/analytics-tool/reports/fixed-smart-report/smart-report-after-query.jpg",
+                "description": "The retrieved data was then formatted into a table from the mui-datatables library, rows were automatically sorted by a particular column's values in descending order then displayed on the table."
+              },
+              {
+                "title": "Show Edit History of Smart Report",
+                "when": "March 2020",
+                "image": "professional/Telstra/analytics-tool/reports/fixed-smart-report/smart-report-edit-history.jpg",
+                "description": "A row would display in light-blue if it has already been edited anytime in the past. A 30 day history of who edited a row, when, and what changes they made can be seen in the column 'Edit History'. The 'Edit History' column of circle icons displays the editor's initials, and hovering the mouse cursor over the circle will reveal a tooltip with information of who edited, when and what they changed."
+              },
+              {
+                "title": "How User Selects Row For Edit.",
+                "when": "March 2020",
+                "image": "professional/Telstra/analytics-tool/reports/fixed-smart-report/smart-report-select-row-to-edit.jpg",
+                "description": "A user could edit a row's data by clicking on a row, which creates a red border around a blue row, or colours an unedited/white row red, to indication selection, then click on the top-right pink edit button to query a 2nd table of data directly related to the selected row."
+              },
+              {
+                "title": "How User Selects Row For Edit.",
+                "when": "March 2020",
+                "image": "professional/Telstra/analytics-tool/reports/fixed-smart-report/smart-report-2nd-table.jpg",
+                "description": "In the 2nd table, the user could then select one or more rows and click the top-right pink edit button again to open a form."
+              },
+              {
+                "title": "How User Edits a Row.",
+                "when": "March 2020",
+                "image": "professional/Telstra/analytics-tool/reports/fixed-smart-report/smart-report-edit-form.jpg",
+                "description": "In this form the user can change various column values in the previously selected rows in the 2nd table (which would add an edit entry against the selected row in the first table). When the user clicks the save button, a REST POST api call with this form data is sent to the backend to augment a write SQL query that is then run against the oracle database to write the form data into the edited row(s)."
+              },
+              {
+                "title": "How User Deletes an Edit.",
+                "when": "April 2020",
+                "image": "professional/Telstra/analytics-tool/reports/fixed-smart-report/smart-report-delete-edit-action.jpg",
+                "description": "The same process above can be used with the delete button to undo/delete edits."
+              }
+            ]
+          },
+          {
+            "group": "Reports",
+            "title": "User-Customizable Smart Report",
+            "tasksDoneInAchievement": [
+              {
+                "title": "Creation/Update Form",
+                "when": "May 2020",
+                "image": "professional/Telstra/analytics-tool/reports/user-customizable-smart-report/creation-form.jpg",
+                "description": "I worked with another developer to create the framework for allowing a user to create/update their own smart report by mostly specifying their desired SQL string and database to query in a form. The front-end of the form was primarily made by the other developer however I wrote the mongoose (MongoDB) database model and the entirety of the backend, input validation and form save validation."
+              },
+              {
+                "title": "SQL-Populated Dropdown Filter Creation",
+                "when": "May 2020",
+                "image": "professional/Telstra/analytics-tool/reports/user-customizable-smart-report/create-sql-populated-dropdown-filter.jpg",
+                "description": "The user also had the option of creating their own dropdown filters using the same form. They would do this by expanding and overwriting an existing default filter or by creating a new filter by clicking on the 'Add new item' row. The user could create two types of dropdown filters. The first type is a dropdown filter with options populated by a user-defined SQL string and database/datasource (Population Method* = SQL). In both types of dropdown filter, the Placeholder* field is for the name of the column in the main report SQL's WHERE clause into which the selected filter option would be inserted to filter the smart report, the default value is the filter option that is selected by default upon opening the smart report, the top-left blue lightning button runs a test on the inputs to determine if a valid filter dropdown options are generated and the required checkbox specifies whether to wait for the user to select a value or default value before querying the smart report."
+              },
+              {
+                "title": "List-Populated Dropdown Filter Creation",
+                "when": "May 2020",
+                "image": "professional/Telstra/analytics-tool/reports/user-customizable-smart-report/create-list-populated-dropdown-filter.jpg",
+                "description": "The second type is a dropdown filter with options populated with a user-defined list of options."
+              },
+              {
+                "title": "Loading Smart Report",
+                "when": "May 2020",
+                "image": "professional/Telstra/analytics-tool/reports/user-customizable-smart-report/inital-load-of-smart-report.jpg",
+                "description": "With no options configured (options will be explained below), the smart report would look like this upon initial load. As the first filter was a 'required' filter, the smart report has not been queried yet. I created the entire frontend and backend for this smart-report GUI."
+              },
+              {
+                "title": "Querying Data",
+                "when": "May 2020",
+                "image": "professional/Telstra/analytics-tool/reports/user-customizable-smart-report/query-data.jpg",
+                "description": "Upon selection of a State filter option, the smart report is then queried. There is also the option of creating no filters, meaning the main report sql will automatically run by itself to query the smart-report when opening the report."
+              },
+              {
+                "title": "Creating Alert",
+                "when": "June 2020",
+                "image": "professional/Telstra/analytics-tool/reports/user-customizable-smart-report/create-alert-form.jpg",
+                "description": "There is also the option of customizing the smart report with user-defined alerts and progress-bars. Back in the smart report editor form. An alert icon can be rendered next to a cell value in a user-defined column if the cell value (number or string) passes a user-defined condition. A test value field can be filled to render what would display in a cell in the actual smart report directly above the field (i.e. real-time condition validation). I created the entire full stack functionality for this."
+              },
+              {
+                "title": "Alerts Displayed in Smart Report",
+                "when": "June 2020",
+                "image": "professional/Telstra/analytics-tool/reports/user-customizable-smart-report/smart-report-alerts.jpg",
+                "description": "Opening up the smart-report will then show the alerts in action."
+              },
+              {
+                "title": "Creating Progress Bar",
+                "when": "June 2020",
+                "image": "professional/Telstra/analytics-tool/reports/user-customizable-smart-report/create-progress-bar-form.jpg",
+                "description": "Similarly, back in the smart report editor form. A progress bar can be rendered behind a cell value in a user-defined column if the cell value (number) falls within a user-defined range. It offers the same real-time render display feature. I created the entire full stack functionality for this as well."
+              },
+              {
+                "title": "Displaying Progress Bar",
+                "when": "June 2020",
+                "image": "professional/Telstra/analytics-tool/reports/user-customizable-smart-report/smart-report-progress-bars.jpg",
+                "description": "Opening up the smart-report will then show the progress-bars in action."
+              },
+              {
+                "title": "Creating Row and Column Heat Maps",
+                "when": "June 2020",
+                "image": "professional/Telstra/analytics-tool/reports/user-customizable-smart-report/create-heat-map-form.png",
+                "description": "There is also the option to define a heat-map across a column(s) where parameters like minimum value and color, and maximum value and color can be set."
+              },
+              {
+                "title": "Displaying Row and Column Heat Maps",
+                "when": "June 2020",
+                "image": "professional/Telstra/analytics-tool/reports/user-customizable-smart-report/smart-report-heat-map.jpg",
+                "description": "Opening up the smart-report again will show the heat-maps in action."
+              }
+            ]
+          },
+          {
+            "group": "Reports",
+            "title": "Automated Data Monitoring Report",
+            "tasksDoneInAchievement": [
+              {
+                "title": "Created UI of user-customizable data monitoring report.",
+                "when": "Oct 2020",
+                "image": "professional/Telstra/analytics-tool/reports/automated-data-monitoring-report/form-overview.jpg",
+                "description": "I was tasked with building a UI that allows a user to schedule alarms against recent data with a data source, checking frequency and total checking time of their choice. I created the UI using react and redux, edited NGINX reverse-proxy configuration to send APIs from the UI to a Java Spring Boot backend developed by my colleague, and I stored all user data in MongoDB."
+              },
+              {
+                "title": "Form for primary details.",
+                "when": "Oct 2020",
+                "image": "professional/Telstra/analytics-tool/reports/automated-data-monitoring-report/main-report.jpg",
+                "description": "The start of the report has a form that users enter primary information into. This includes the name of the data source and the sql that will be periodically queried against that data source. There's also options for enabling alarming, performing a dry run and excluding data monitoring on holidays."
+              },
+              {
+                "title": "Form for entering sql filters.",
+                "when": "Oct 2020",
+                "image": "professional/Telstra/analytics-tool/reports/automated-data-monitoring-report/filter-form.jpg",
+                "description": "The report also includes a form that allows users to add name: value pairs (i.e. filters) which are collectively used to create a corresponding SQL WHERE clause. This WHERE clause will be inserted into the above SQL before querying a data source."
+              },
+              {
+                "title": "Upload sql filters feature.",
+                "when": "Oct 2020",
+                "image": "professional/Telstra/analytics-tool/reports/automated-data-monitoring-report/upload-filters.jpg",
+                "description": "The user can also upload .txt, .csv, .xls & .xlsx files containing these filters, which will insert them all into the form."
+              },
+              {
+                "title": "Pick Data Monitoring Schedule",
+                "when": "Oct 2020",
+                "image": "professional/Telstra/analytics-tool/reports/automated-data-monitoring-report/scheduler-form.png",
+                "description": "Finally the user can use a date-range selector to select the data-monitoring start & end date. They can also use a quartz-cron builder UI to select their preferred data monitoring frequency in the form of a quartz-cron expression string."
+              }
+            ]
+          },
+          {
+            "group": "Reports",
+            "title": "Reports Landing Page",
+            "tasksDoneInAchievement": [
+              {
+                "title": "Old Reports Landing Page",
+                "when": "November 2020",
+                "image": "professional/Telstra/analytics-tool/reports/reports-landing-page/old-reports-landing-page.jpg",
+                "description": "I was tasked with completely re-creating our reports landing page, shown to the left, from which users could create, edit, view/run and delete reports (represented as cards). The problem with this landing page was the lack of filtering functionality, ability to favourite/unfavourite reports, and the UX was overall very clunky and not condusive to efficient workflows (e.g. user often had to scroll-down far to find their desired report). Also the left-side panel only showed the run-history of one particular automated report and was not relevant to all the other reports. Hence, a lot of screen real-estate was being inefficiently utilized."
+              },
+              {
+                "title": "New Reports Landing Page",
+                "when": "November 2020",
+                "image": "professional/Telstra/analytics-tool/reports/reports-landing-page/reports-landing-page.jpg",
+                "description": "Hence, I created a new reports landing page where each report is now represented as a row in a table. The new design allows for easy filtering, pagination and provides the ability to favourite/unfavourite reports. Note that the action buttons have been moved into the 'Action' column."
+              },
+              {
+                "title": "Enable filtering.",
+                "when": "November 2020",
+                "image": "professional/Telstra/analytics-tool/reports/reports-landing-page/advanced-filtering.jpg",
+                "description": "Users could use the above dropdowns (multiple options can be selected from each dropdown) and/or click on the filter button in the top-right toolbar > select filters to apply a combination of filters. This allows them to quickly find their desired report."
+              },
+              {
+                "title": "Only show favourites.",
+                "when": "November 2020",
+                "image": "professional/Telstra/analytics-tool/reports/reports-landing-page/filter-based-on-type-of-report.jpg",
+                "description": "Users can also use the first dropdown to only display their favourite reports and/or only the reports they created."
+              },
+              {
+                "title": "Show panel of report run history with data only relevant to the report on which you click 'View History'.",
+                "when": "November 2020",
+                "image": "professional/Telstra/analytics-tool/reports/reports-landing-page/see-history-of-past-runs-of-an-automated-report.jpg",
+                "description": "Instead of unnecessarily showing the report run history panel all the time, it now only opens with history relevant to the report you click 'View History' on."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Anthony is a highly competent software developer having delivered some of the key features in our project. He is consistently proactive in refactoring code and improving user experience according to industry best practices. He is also always improving his and his team's knowledge and abilities, especially those of new team members, through teaching from first-principles and documenting project information and standardized work practices.",
+        "source": "Priya Saravanavelu - Automation Test Engineer at Telstra"
+      },
+      {
+        "text": "Anthony has been my go-to person in the project. Anthony ensured that I easily settled into the team and helped me navigate all the need-to-know's quickly. He has always made himself available to answer any queries that I had. I've seen him take on some mammoth tasks and deliver them quite well and to the satisfaction of the product owner.",
+        "source": "Kiran Surendran - Web Developer at Telstra"
+      }
+    ]
+  }
+}
