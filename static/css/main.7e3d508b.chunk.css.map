@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Components/styleComponent.css"],"names":[],"mappings":"AAAA,UACI,cAAe,CACf,YAAa,CACb,UAEF","file":"main.7e3d508b.chunk.css","sourcesContent":["#headerH1 {\r\n    font-size: 55px;\r\n    margin: 5px 0;\r\n    color: #ffffff;\r\n    \r\n  }"]}
