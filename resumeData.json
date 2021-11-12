@@ -1,235 +1,227 @@
 {
-  "main": {
-    "name": "Abdourahamane BALDE",
-    "occupation": "Etudiant",
-    "description": "Actuellement étudiant en Master 1 Informatique à l'université Paris 8",
-    "image": "profilepic.jpg",
-    "bio": "Titulaire d'une Licence MIAGE obtenue à l'université Paris Nanterre en 2021. Actuellement étudiant en Master 1 Informatique à l'université Paris 8, à la recherche d'un contrat d'apprentissage dans le domaine de l'informatique, disponible immédiatement",
-    "contactmessage": "Contact.",
-    "email": "baldeabdoun@gmail.com",
-    "phone": "+33754086752",
-    "address": {
-      "city": "Paris",
-      "suburb": "16 Avenue des Frères Lumière Bâtiment B, Appartement 132, 94360 Bry-Sur-Marne",
-      "state": "",
-      "zip": ""
+    "main": {
+        "name": "Abdourahamane BALDE",
+        "occupation": "Etudiant",
+        "description": "Actuellement étudiant en Master 1 Informatique à l'université Paris 8",
+        "image": "profilepic.jpg",
+        "bio": "Titulaire d'une Licence MIAGE obtenue à l'université Paris Nanterre en 2021. Actuellement étudiant en Master 1 Informatique à l'université Paris 8, à la recherche d'un contrat d'apprentissage dans le domaine de l'informatique, disponible immédiatement",
+        "contactmessage": "Contact.",
+        "email": "baldeabdoun@gmail.com",
+        "phone": "+33754086752",
+        "address": {
+            "city": "Paris",
+            "suburb": "16 Avenue des Frères Lumière Bâtiment B, Appartement 132, 94360 Bry-Sur-Marne",
+            "state": "",
+            "zip": ""
+        },
+        "website": "http://www.timbakerdev.com",
+        "resumedownload": "CV.pdf",
+        "social": [{
+                "name": "linkedin",
+                "url": "http://linkedin.com/in/abdourahamane-balde",
+                "className": "fa fa-linkedin",
+                "title": "Go to my LinkedIn profile"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/Adrabalde",
+                "className": "fa fa-github",
+                "title": "Go to my Github profile"
+            }
+        ]
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "CV.pdf",
-    "social": [
-      {
-        "name": "linkedin",
-        "url": "http://linkedin.com/in/abdourahamane-balde",
-        "className": "fa fa-linkedin",
-        "title": "Go to my LinkedIn profile"
-      },
-      {
-        "name": "github",
-        "url": "https://github.com/Adrabalde",
-        "className": "fa fa-github",
-        "title": "Go to my Github profile"
-      }
-    ]
-  },
-  "resume": {
-    "skillmessage": "",
+    "resume": {
+        "skillmessage": "",
 
-    "qualifications": [
-     
-      
-      {
-        "organization": "Professionnel",
-        "qualification": "Anglais",
-        "dateReceived": "",
-        "descriptions": [
-         
+        "qualifications": [
+
+
+            {
+                "organization": "Professionnel",
+                "qualification": "Anglais",
+                "dateReceived": "",
+                "descriptions": [
+
+                ]
+            },
+
+            {
+                "organization": "Courant",
+                "qualification": "Arabe",
+                "dateReceived": "",
+                "descriptions": [
+
+                ]
+            },
+            {
+                "organization": "Courant",
+                "qualification": "Turc",
+                "dateReceived": "",
+                "descriptions": [
+
+                ]
+            }
+
+        ],
+        "work": [{
+                "company": "Université Paris Nanterre",
+                "location": "",
+                "title": "Stage Full Stack Développement Web",
+                "years": "Avril 2021 - Juillet 2021",
+                "description": [
+                    "Réalisation d’un site web pour les Instituts des Hautes Etudes ",
+                    " Rassembler les sites des 12 Instituts sur un seul site pour faciliter l’utilisation",
+                    " Les personnes âgées entre 30 et 55 ans s’inscrivent à une formation pour changer de métier",
+                    " Technologies utilisées : Python (Django) pour le Back-end & React JS pour lefront-end"
+                ]
+            },
+            {
+                "company": "Université Paris Nanterre",
+                "location": "",
+                "title": "Gestion de réseau de transport",
+                "years": "Mars 2021 - Juin 2021",
+                "description": [
+                    " Récupérer les données depuis une API",
+                    " Générer des graphes ensuite calculer le plus court chemin",
+                    " Puis utiliser le logiciel Gephi pour l’analyse et la visualisation"
+                ]
+            },
+            {
+                "company": "Université Paris Nanterre",
+                "location": "",
+                "title": "Framework Django",
+                "years": "Octobre 2020 - Janvier 2021",
+                "description": [
+                    "♦ Création d'un site web pour la gestion des étudiants à l’aide du langage python:",
+                    " Inscrire un étudiant à une formation et l’attribuer à un groupe de TD",
+                    " Modifier les informations d’un étudiant et supprimer un étudiant si nécessaire",
+                    " Importation et exportation d’un fichier excel ou csv contenant les informations des étudiants"
+                ]
+            }
+
+        ],
+        "skills": [{
+                "name": "ReactJs",
+                "level": "80%"
+            },
+            {
+                "name": "Python",
+                "level": "80%"
+            },
+            {
+                "name": "CSS/CSS-in-JS/CSS-in-HTML",
+                "level": "90%"
+            },
+            {
+                "name": "JavaScript",
+                "level": "80%"
+            },
+            {
+                "name": "Java",
+                "level": "65%"
+            },
+            {
+                "name": "C++",
+                "level": "60%"
+            },
+            {
+                "name": "R",
+                "level": "75%"
+            },
+            {
+                "name": "SAS",
+                "level": "80%"
+            },
+            {
+                "name": "C",
+                "level": "50%"
+            },
+            {
+                "name": "PHP",
+                "level": "60%"
+            },
+            {
+                "name": "Base de données SQL",
+                "level": "90%"
+            },
+            {
+                "name": "PL/SQL",
+                "level": "70%"
+            },
+            {
+                "name": "Mongo DB",
+                "level": "60%"
+            },
+            {
+                "name": "Framework Django",
+                "level": "85%"
+            },
+            {
+                "name": "Power BI",
+                "level": "55%"
+            }
         ]
-      },
-      
-      {
-        "organization": "Courant",
-        "qualification": "Arabe",
-        "dateReceived": "",
-        "descriptions": [
-          
-        ]
-      },
-      {
-        "organization": "Courant",
-        "qualification": "Turc",
-        "dateReceived": "",
-        "descriptions": [
-         
-        ]
-      }
-     
-    ],
-    "work": [
-      {
-        "company": "Université Paris Nanterre",
-        "location": "",
-        "title": "Stage Full Stack Développement Web",
-        "years": "Avril 2021 - Juillet 2021",
-        "description": [
-          "Réalisation d’un site web pour les Instituts des Hautes Etudes ",
-         " Rassembler les sites des 12 Instituts sur un seul site pour faciliter l’utilisation",
-         " Les personnes âgées entre 30 et 55 ans s’inscrivent à une formation pour changer de métier",
-         " Technologies utilisées : Python (Django) pour le Back-end & React JS pour lefront-end"
-        ]
-      },
-      {
-        "company": "Université Paris Nanterre",
-        "location": "",
-        "title": "Gestion de réseau de transport",
-        "years": "Mars 2021 - Juin 2021",
-        "description": [
-          " Récupérer les données depuis une API",
-          " Générer des graphes ensuite calculer le plus court chemin",
-          " Puis utiliser le logiciel Gephi pour l’analyse et la visualisation"
-        ]
-      },
-      {
-        "company": "Université Paris Nanterre",
-        "location": "",
-        "title": "Framework Django",
-        "years": "Octobre 2020 - Janvier 2021",
-        "description": [
-         "♦ Création d'un site web pour la gestion des étudiants à l’aide du langage python:",
-         " Inscrire un étudiant à une formation et l’attribuer à un groupe de TD",
-         " Modifier les informations d’un étudiant et supprimer un étudiantsi nécessaire",
-         " Importation et exportationd’un fichier excel ou csv contenant les informations des étudiants"
-        ]
-      }
-      
-    ],
-    "skills": [
-      {
-        "name": "ReactJs",
-        "level": "80%"
-      },
-      {
-        "name": "Python",
-        "level": "80%"
-      },
-      {
-        "name": "CSS/CSS-in-JS/CSS-in-HTML",
-        "level": "90%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "80%"
-      },
-      {
-        "name": "Java",
-        "level": "65%"
-      },
-      {
-        "name": "C++",
-        "level": "60%"
-      },
-      {
-        "name": "R",
-        "level": "75%"
-      },
-      {
-        "name": "SAS",
-        "level": "80%"
-      },
-      {
-        "name": "C",
-        "level": "50%"
-      },
-      {
-        "name": "PHP",
-        "level": "60%"
-      },
-      {
-        "name": "Base de données SQL",
-        "level": "90%"
-      },
-      {
-        "name": "PL/SQL",
-        "level": "70%"
-      },
-      {
-        "name": "Mongo DB",
-        "level": "60%"
-      },
-      {
-        "name": "Framework Django",
-        "level": "85%"
-      },
-      {
-        "name": "Power BI",
-        "level": "55%"
-      }
-    ]
-  },
-  "portfolio": {
-    "personalProjects": [
-     
-      {
-        "title": "Licence MIAGE",
-        "description": "",
-        "image": "personal/nanterre.jpg",
-        "url": "https://www.parisnanterre.fr/"
-      },
-      {
-        "title": "Licence 1 & 2 Statistiques",
-        "description": "",
-        "image": "personal/mugla.jpg",
-        "url": "https://www.mu.edu.tr/"
-      },
-      {
-        "title": "Première & Deuxième années Médecine",
-        "description": "",
-        "image": "personal/kofiAnnan.jpg",
-        "url": "https://ukaguinee.org/public/"
-      }
-     
-    ],
-    "professionalProjects": [
-      {
-        "title": "Master 1 Informatique",
-        "image": "professional/Telstra/paris8.jpg",
-        "url": "https://www.univ-paris8.fr/",
-        "achievements": [
-          {
-            "group": "",
-            "title": "",
-            "tasksDoneInAchievement": [
-              {
-                "title": "Bibliothèque Paris 8",
-                "image": "professional/Telstra/analytics-tool/charts/chart-viewer/bu1.jpg",
-                "description": ""
-              },
-              {
-                "title": "Paris 8",
-                "when": "",
-                "image": "professional/Telstra/analytics-tool/charts/chart-viewer/pa8.jpg",
-                "description": ""
-              }
-              
-             
-              
+    },
+    "portfolio": {
+        "personalProjects": [
+
+            {
+                "title": "Licence MIAGE",
+                "description": "",
+                "image": "personal/nanterre.jpg",
+                "url": "https://www.parisnanterre.fr/"
+            },
+            {
+                "title": "Licence 1 & 2 Statistiques",
+                "description": "",
+                "image": "personal/mugla.jpg",
+                "url": "https://www.mu.edu.tr/"
+            },
+            {
+                "title": "Première & Deuxième années Médecine",
+                "description": "",
+                "image": "personal/kofiAnnan.jpg",
+                "url": "https://ukaguinee.org/public/"
+            }
+
+        ],
+        "professionalProjects": [{
+            "title": "Master 1 Informatique",
+            "image": "professional/Telstra/paris8.jpg",
+            "url": "https://www.univ-paris8.fr/",
+            "achievements": [{
+                    "group": "",
+                    "title": "",
+                    "tasksDoneInAchievement": [{
+                            "title": "Bibliothèque Paris 8",
+                            "image": "professional/Telstra/analytics-tool/charts/chart-viewer/bu1.jpg",
+                            "description": ""
+                        },
+                        {
+                            "title": "Paris 8",
+                            "when": "",
+                            "image": "professional/Telstra/analytics-tool/charts/chart-viewer/pa8.jpg",
+                            "description": ""
+                        }
+
+
+
+                    ]
+                }
+
+
             ]
-          }
-          
-        
+        }]
+    },
+    "testimonials": {
+        "testimonials": [{
+                "text": "Je suis actuellement étudiant en master 1 Informatique à l'université Paris 8, à la recherche d'un contrat d'apprentissage dans le domaine de l'informatique, rythme 2 jours en entreprise et 3 jours à l'université, disponible immédiatement. ",
+                "source": ""
+            },
+            {
+                "text": "Cette alternance me permettra d’acquérir de l’expérience professionnelle tout en découvrant de nouvelles technologies que l’on n’aura pas forcément la chance d’apprendre àl’Université. J’apprends vite et je deviens autonome après avoir été guidé. Passionné par l'informatique et déterminé à apprendre toujours plus, cette alternance serait également le moyen de faire valoir mes connaissances acquises au cours de ma formation et de les mettre au profit de votre entreprise. Ma détermination, mon sens de la rigueur et des responsabilités me permettront de réussir si j’ai la chance d’être accepté dans votre entreprise. Je suis prêt à m’investir totalement afin de bien mener les missions qui me seront confiées. Je vous remercie pour l’attention que vous porterez à ma candidature.",
+                "source": ""
+            }
         ]
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Je suis actuellement étudiant en master 1 Informatique à l'université Paris 8, à la recherche d'un contrat d'apprentissage dans le domaine de l'informatique, rythme 2 jours en entreprise et 3 jours à l'université, disponible immédiatement. ",
-        "source": ""
-      },
-      {
-        "text": "Cette alternance me permettra d’acquérir de l’expérience professionnelle tout en découvrant de nouvelles technologies que l’on n’aura pas forcément la chance d’apprendre àl’Université. J’apprends vite et je deviens autonome après avoir été guidé. Passionné par l'informatique et déterminé à apprendre toujours plus, cette alternance serait égalementle moyen de faire valoir mes connaissances acquises au cours de ma formation et de les mettre au profit de votre entreprise. Ma détermination, mon sens de la rigueur et des responsabilités me permettront de réussir si j’ai la chance d’être accepté dans votre entreprise. Je suis prêt à m’investir totalement afin de bien mener les missions qui me seront confiées. Je vous remercie pour l’attention que vous porterez à ma candidature.",
-        "source": ""
-      }
-    ]
-  }
+    }
 }
